@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# Program Archive
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Here is an archive of materials used in the Establishing Multimessenger Astronomy Interdisciplinary Training graduate program at Vanderbilt. 
 
-## Commands
+Archive in progress!
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Contents
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [Blast Modules](blastmodules.md) — summaries and materials when available
+- [Whole Self Seminars](selfseminars.md) — summaries of topics and materials when available
+- [Summer School](summerschools.md) - curricula and materials
+- [Resources](resources.md) — career development resources 
